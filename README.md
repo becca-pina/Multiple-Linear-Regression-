@@ -166,3 +166,4 @@ For questions or further discussion about this project, feel free to contact:
 Name: Rebecca Pina
 Email: [x23436786@student.ncirl.ie]
 LinkedIn: [https://www.linkedin.com/in/rebecca-pina/]
+Link of the repository: https://github.com/becca-pina/Multiple-Linear-Regression-Time-Series
